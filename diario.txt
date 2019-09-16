@@ -1,0 +1,7 @@
+20190916 nc
+
+Creado usuario en github (cigalat14)
+Creado repositorio: ed con README.md y .gitignore (plantilla de java)
+
+Clonar en local:
+git clone https://github.com/cigalat14/ed.git

@@ -5,3 +5,14 @@ Creado repositorio: ed con README.md y .gitignore (plantilla de java)
 
 Clonar en local:
 git clone https://github.com/cigalat14/ed.git
+
+
+git config --global user.name cigalat14
+git config --global user.email ignsae@alu.iesserpis.com
+git config --global push.default simple
+
+git add diario.txt
+git commit -m "diario.txt con introducción a github y git"
+git log (lista de versiones)
+git status(estado en el que estaba)
+git push

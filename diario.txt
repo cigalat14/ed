@@ -16,3 +16,15 @@ git commit -m "diario.txt con introducción a github y git"
 git log (lista de versiones)
 git status(estado en el que estaba)
 git push
+
+20190923 nc
+virtual box 
+serpisdam: 2048MB, Disco 20GB, procesador 2
+Idioma:_____
+Zona o huso horario:________
+usuario: administrador/sistemas
+equipo: serpisdam
+
+sudo -i=Pasamos a ser root
+apt update=Actualiza la lista de paquetes disponibles
+apt full-upgrade=Actualiza todo

@@ -28,3 +28,17 @@ equipo: serpisdam
 sudo -i=Pasamos a ser root
 apt update=Actualiza la lista de paquetes disponibles
 apt full-upgrade=Actualiza todo
+
+20191021 nc
+eclipse-java
+new = se crea un objeto nuevo
+int numeroAleatorio = random.nextInt(1000) +1; //Crear numero aleatorio entre 1 y 1000
+args son argumentos para el programa
+Para comparar expresiones numéricas < <= = >= >
+do while (true) para que esté constantemente haciendo lo de dentro del do
+Si ponemos el println debajo del while. Cuando llega al while se destruye la variable.
+%s busca valor para sustituir la variable y reducir la búsqueda. Ayudado por la introducción de las variables entre extremo izquiero y extremo derecho.
+++c preincremento
+c++ post incremento
+
+

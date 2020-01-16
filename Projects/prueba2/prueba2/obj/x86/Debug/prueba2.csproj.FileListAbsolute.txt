@@ -1,0 +1,6 @@
+/home/ignsae/ed/Projects/prueba2/prueba2/bin/Debug/prueba2.exe
+/home/ignsae/ed/Projects/prueba2/prueba2/bin/Debug/prueba2.pdb
+/home/ignsae/ed/Projects/prueba2/prueba2/obj/x86/Debug/prueba2.csprojAssemblyReference.cache
+/home/ignsae/ed/Projects/prueba2/prueba2/obj/x86/Debug/prueba2.csproj.CoreCompileInputs.cache
+/home/ignsae/ed/Projects/prueba2/prueba2/obj/x86/Debug/prueba2.exe
+/home/ignsae/ed/Projects/prueba2/prueba2/obj/x86/Debug/prueba2.pdb

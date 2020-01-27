@@ -1,0 +1,6 @@
+/home/ignsae/ed/prueba/CTabla/CTabla/CTabla/bin/Debug/CTabla.exe
+/home/ignsae/ed/prueba/CTabla/CTabla/CTabla/bin/Debug/CTabla.pdb
+/home/ignsae/ed/prueba/CTabla/CTabla/CTabla/obj/x86/Debug/CTabla.csprojAssemblyReference.cache
+/home/ignsae/ed/prueba/CTabla/CTabla/CTabla/obj/x86/Debug/CTabla.csproj.CoreCompileInputs.cache
+/home/ignsae/ed/prueba/CTabla/CTabla/CTabla/obj/x86/Debug/CTabla.exe
+/home/ignsae/ed/prueba/CTabla/CTabla/CTabla/obj/x86/Debug/CTabla.pdb

@@ -6,7 +6,7 @@
   <import>
     <widget-library name="../bin/Debug/prueba2.exe" internal="true" />
   </import>
-  <widget class="Gtk.Window" id="MainWindow" design-size="400 300">
+  <widget class="Gtk.Window" id="MainWindow" design-size="400 115">
     <property name="MemberName" />
     <property name="Title" translatable="yes">MainWindow</property>
     <property name="WindowPosition">CenterOnParent</property>
@@ -49,7 +49,7 @@
                 <property name="MemberName" />
                 <property name="Spacing">6</property>
                 <child>
-                  <widget class="Gtk.Entry" id="entry1">
+                  <widget class="Gtk.Entry" id="text">
                     <property name="MemberName" />
                     <property name="CanFocus">True</property>
                     <property name="Text" translatable="yes">reget</property>
@@ -102,12 +102,13 @@
                   </packing>
                 </child>
                 <child>
-                  <widget class="Gtk.Button" id="button3">
+                  <widget class="Gtk.Button" id="Salir">
                     <property name="MemberName" />
                     <property name="CanFocus">True</property>
                     <property name="Type">TextOnly</property>
-                    <property name="Label" translatable="yes">GtkButton</property>
+                    <property name="Label" translatable="yes">Salir</property>
                     <property name="UseUnderline">True</property>
+                    <signal name="Clicked" handler="OnSalirClicked" />
                   </widget>
                   <packing>
                     <property name="Position">1</property>
@@ -121,8 +122,9 @@
                     <property name="MemberName" />
                     <property name="CanFocus">True</property>
                     <property name="Type">TextOnly</property>
-                    <property name="Label" translatable="yes">GtkButton</property>
+                    <property name="Label" translatable="yes">Salir 2</property>
                     <property name="UseUnderline">True</property>
+                    <signal name="Clicked" handler="OnButton4Clicked" />
                   </widget>
                   <packing>
                     <property name="Position">2</property>

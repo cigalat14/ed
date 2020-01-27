@@ -22,6 +22,7 @@ namespace prueba
 
             int num3 = num1 + num2;
             Console.WriteLine("La suma de tus números es " + num3);
+
         }
     }
 }

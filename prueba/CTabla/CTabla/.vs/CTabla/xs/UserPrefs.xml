@@ -1,5 +1,5 @@
 ﻿<Properties StartupConfiguration="{B5370ED3-C6BC-48AD-9870-9683D4526CEA}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="CTabla/Panel.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="CTabla/MainWindow.cs">
     <Files>
       <File FileName="CTabla/Program.cs" Line="1" Column="1" />
       <File FileName="CTabla/MainWindow.cs" Line="19" Column="39" />
@@ -10,7 +10,7 @@
         <State name="__root__">
           <Node name="CTabla" expanded="True">
             <Node name="CTabla" expanded="True">
-              <Node name="Panel.cs" selected="True" />
+              <Node name="MainWindow.cs" selected="True" />
             </Node>
           </Node>
         </State>

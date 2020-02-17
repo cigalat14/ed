@@ -1,0 +1,28 @@
+﻿<Properties StartupConfiguration="{0CC01D96-4EEF-47C7-BABA-03B26A96F36E}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="BingoCiga/Bombo.cs">
+    <Files>
+      <File FileName="BingoCiga/Program.cs" Line="16" Column="2" />
+      <File FileName="BingoCiga/Panel.cs" Line="4" Column="17" />
+      <File FileName="BingoCiga/Bombo.cs" Line="1" Column="1" />
+      <File FileName="BingoCiga/MainWindow.cs" Line="11" Column="45" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="BingoCiga" expanded="True">
+            <Node name="BingoCiga" expanded="True">
+              <Node name="Bombo.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.BingoCiga PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

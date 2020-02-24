@@ -1,0 +1,6 @@
+/home/ignsae/Escritorio/ed/Calculadora/Calculadora/Calculadora/obj/x86/Debug/Calculadora.csprojAssemblyReference.cache
+/home/ignsae/Escritorio/ed/Calculadora/Calculadora/Calculadora/obj/x86/Debug/Calculadora.csproj.CoreCompileInputs.cache
+/home/ignsae/Escritorio/ed/Calculadora/Calculadora/Calculadora/bin/Debug/Calculadora.exe
+/home/ignsae/Escritorio/ed/Calculadora/Calculadora/Calculadora/bin/Debug/Calculadora.pdb
+/home/ignsae/Escritorio/ed/Calculadora/Calculadora/Calculadora/obj/x86/Debug/Calculadora.exe
+/home/ignsae/Escritorio/ed/Calculadora/Calculadora/Calculadora/obj/x86/Debug/Calculadora.pdb

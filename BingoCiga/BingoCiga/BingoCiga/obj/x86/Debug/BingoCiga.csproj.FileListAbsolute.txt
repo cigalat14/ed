@@ -1,0 +1,6 @@
+/home/ignsae/Escritorio/ed/BingoCiga/BingoCiga/BingoCiga/bin/Debug/BingoCiga.exe
+/home/ignsae/Escritorio/ed/BingoCiga/BingoCiga/BingoCiga/bin/Debug/BingoCiga.pdb
+/home/ignsae/Escritorio/ed/BingoCiga/BingoCiga/BingoCiga/obj/x86/Debug/BingoCiga.csprojAssemblyReference.cache
+/home/ignsae/Escritorio/ed/BingoCiga/BingoCiga/BingoCiga/obj/x86/Debug/BingoCiga.csproj.CoreCompileInputs.cache
+/home/ignsae/Escritorio/ed/BingoCiga/BingoCiga/BingoCiga/obj/x86/Debug/BingoCiga.exe
+/home/ignsae/Escritorio/ed/BingoCiga/BingoCiga/BingoCiga/obj/x86/Debug/BingoCiga.pdb
